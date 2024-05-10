@@ -7,4 +7,9 @@
 * implemented in C++ using glfw+imgui [source code](https://github.com/doctor-rd/sterne-imgui)
 
 # Math
+## Diplomarbeit
 * My diploma thesis [Diplomarbeit](http://alzagk.math.uni-bremen.de/Arbeiten/diplrdonau.pdf)
+
+## Publications
+* on [ORCID](https://orcid.org/0000-0001-5737-9929)
+* on [arXiv](https://arxiv.org/a/0000-0001-5737-9929.html)
