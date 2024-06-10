@@ -6,6 +6,9 @@
 * implemented in JavaScript+WebGL [run in your browser](https://doctor-rd.github.io/sterne-webgl)
 * implemented in C++ using glfw+imgui [source code](https://github.com/doctor-rd/sterne-imgui)
 
+## Flying objects
+* implemented in JavaScript+Three.js [run in your browser](https://doctor-rd.github.io/flying/)
+
 # Math
 ## Diplomarbeit
 * My diploma thesis [Diplomarbeit](http://alzagk.math.uni-bremen.de/Arbeiten/diplrdonau.pdf)
