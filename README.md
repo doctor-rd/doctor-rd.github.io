@@ -6,6 +6,9 @@
 * implemented in JavaScript+WebGL [run in your browser](https://doctor-rd.github.io/sterne-webgl)
 * implemented in C++ using glfw+imgui [source code](https://github.com/doctor-rd/sterne-imgui)
 
+## Functions in 3D
+* implemented in JavaScript+WebGL [run in your browser](https://doctor-rd.github.io/m3d/)
+
 ## Flying objects
 * implemented in JavaScript+Three.js [run in your browser](https://doctor-rd.github.io/flying/)
 
